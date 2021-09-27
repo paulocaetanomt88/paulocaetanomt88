@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulocaetanomt88
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning javascript, Node.js, React Native, ReactJS and PHP, 
+- 🌱 I’m currently learning javascript, Node.js, React Native, ReactJS, JavaEE, Python and PHP, 
 - 💞️ I’m looking to collaborate on projects using this tecnologies
 - 📫 How to reach me: by email: paulocaetanomt88@gmail.com
